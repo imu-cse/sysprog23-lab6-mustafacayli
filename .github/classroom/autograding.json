@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "test submission",
+      "setup": "",
+      "run": "echo \"thank you for submission\"",
+      "input": "",
+      "output": "thank you for submission",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 100
+    }
+  ]
+}
